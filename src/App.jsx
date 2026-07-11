@@ -301,7 +301,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-xl sm:text-2xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-200 via-purple-100 to-pink-200">
-                Aether Tasks
+                Nilesh's Tasks
               </h1>
               <p className="text-xs text-slate-400 font-medium">Elevating your daily focus</p>
             </div>
